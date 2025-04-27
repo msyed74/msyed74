@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm **Syed Mohammad Baqir Husain**  
-### 💻 A Passionate Software Developer
+### 💻 A Passionate Software Developer | Innovator | Lifelong Learner
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native+Enthusiast;Building+cool+projects+everyday" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[MitsKit](https://syedmohammaddd.netlify.app/)** 🚀
+- 🔭 I’m currently working on **[MitsKit](https://syedmohammaddd.netlify.app/)** 🚀 – A toolkit for your software development needs
 - 👯 Open for collaborations on **exciting tech projects**
 - 🌱 Currently exploring **Next.js**, **Flutter**, and **Cloud Development**
 - 💬 Ask me about **React, React Native, MongoDB, Express.js, Node.js**
@@ -78,10 +78,10 @@
 
 > *Built with ❤️ by [Syed Mohammad Baqir Husain](https://syedmohammaddd.netlify.app/)*
 
+---
+
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/msyed74/msyed74/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/msyed74/msyed74/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
 </p>
-
-
