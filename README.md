@@ -78,10 +78,10 @@
 
 > *Built with ❤️ by [Syed Mohammad Baqir Husain](https://syedmohammaddd.netlify.app/)*
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/msyed74/msyed74/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/msyed74/msyed74/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
