@@ -2,7 +2,7 @@
 ### 💻 A Passionate Software Developer | Innovator | Lifelong Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native+Enthusiast;Building+cool+projects+everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native+Enthusiast;Building+cool+projects+everyday" alt="Typing SVG" />
 </p>
 
 ---
